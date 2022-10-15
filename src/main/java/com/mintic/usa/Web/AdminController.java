@@ -1,9 +1,7 @@
 package com.mintic.usa.Web;
 
 import com.mintic.usa.Modelo.Admin;
-import com.mintic.usa.Modelo.Boat;
 import com.mintic.usa.Service.AdminService;
-import com.mintic.usa.Service.BoatService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
